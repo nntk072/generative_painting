@@ -1,3 +1,10 @@
 model_logs
 neuralgym_logs
 data
+imagenet
+data_mask_different
+psnr
+ssim
+psnr_mask_different
+ssim_mask_different
+__pycache__
